@@ -13,4 +13,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SurajMishra76/leetcode/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/SurajMishra76/leetcode/tree/master/0016-3sum-closest) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/SurajMishra76/leetcode/tree/master/0016-3sum-closest) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/SurajMishra76/leetcode/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
